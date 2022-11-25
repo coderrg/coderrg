@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderrg
+- 👋 Hi, I’m @coderrg.
 - 👀 I’m interested in building AI-powered products that create social value.
 - 🌱 I’m currently studying Computer Science at Stanford.
 - 📫 You can reach me via Twitter (https://twitter.com/rhythmrg).
